@@ -3,6 +3,7 @@
 # Anari Manwah 816024772
 ### About
 This project has taken me so long to make. It has been redone over and over again and I have actually learnt alot more than I thought. It was hard as hell to figure out what I was doing, but the lab resources, as well as the online resources really pulled me through this. 
+
 Sir, I may have lost half of my sanity, and hair doing this, but it works. I followed guides and solutions for specific sections (such as the calculations of speed and distance) and I also used guides for the google maps API. I also used the android studio guide to help me figure out some of the more complex functions of this assignment.
 
 ## MQTT Configuration

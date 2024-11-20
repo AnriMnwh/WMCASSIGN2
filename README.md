@@ -54,7 +54,7 @@ An Android application that receives, stores, and visualizes location data from 
 - RecyclerView for device listing
 - DateTimePicker for report filtering
 
-### Resources
+## Resources
 - https://www.youtube.com/watch?v=Nnt-xgwn3YQ
 - https://www.youtube.com/watch?v=_xUcYfbtfsI
 - https://www.youtube.com/watch?v=pOKPQ8rYe6g

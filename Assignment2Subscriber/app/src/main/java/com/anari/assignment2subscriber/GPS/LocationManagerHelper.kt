@@ -23,7 +23,7 @@ class LocationManagerHelper(private val context: Context) {
             locationManager.requestLocationUpdates(
                 LocationManager.GPS_PROVIDER,
                 5000, // Update every 5 seconds
-                10f,   // Or when moved 10 meters... according to da docs i put these in because it isn't too short of a time/ long of a distance to make it run down the battery really fast
+                5f,   // Or when moved 5 meters... according to da docs i put these in because it isn't too short of a time/ long of a distance to make it run down the battery really fast
                 locationListener
             )
         }
